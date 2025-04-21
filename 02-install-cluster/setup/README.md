@@ -144,7 +144,7 @@ kubectl get pod -n kube-system -o wide
 kubectl get pod -A -o wide
 ```
 
-### Install Pod Network Plugin (Weave Net)
+### 7. Install Pod Network Plugin (Weave Net)
 
 Kubernetes nodes need a network plugin so pods can communicate across nodes. Here, we install Weave Net.
 **Install plugin:**
