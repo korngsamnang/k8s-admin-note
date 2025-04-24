@@ -5,6 +5,7 @@
 ## K8s Installation
 
 -   System Requirements: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+-   Ports and Protocols: https://kubernetes.io/docs/reference/networking/ports-and-protocols/
 -   Static Pods: https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
 -   Certificates: https://kubernetes.io/docs/setup/best-practices/certificates/
 -   Kubeadm: https://kubernetes.io/docs/reference/setup-tools/kubeadm/
